@@ -4,3 +4,6 @@
 [submodule "wlin12"]
 	path = wlin12
 	url = git://github.com/wlin12/sp2013.11-731.git
+[submodule "cdyer-ro"]
+	path = cdyer-ro
+	url = git://github.com/redpony/sp2013.11-731.git
