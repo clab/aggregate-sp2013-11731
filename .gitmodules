@@ -7,3 +7,33 @@
 [submodule "victor"]
 	path = victor
 	url = git://github.com/vcha/sp2013.11-731.git
+[submodule "sunayana"]
+	path = sunayana
+	url = git://github.com/ssitaram/sp2013.11-731.git
+[submodule "armatthews"]
+	path = armatthews
+	url = git://github.com/armatthews/sp2013.11-731.git
+[submodule "ytsvetko"]
+	path = ytsvetko
+	url = git://github.com/ytsvetko/sp2013.11-731.git
+[submodule "sjeblee"]
+	path = sjeblee
+	url = git://github.com/sjeblee/sp2013.11-731.git
+[submodule "hhashemi"]
+	path = hhashemi
+	url = git://github.com/HHashemi/sp2013.11-731.git
+[submodule "dbamman"]
+	path = dbamman
+	url = git://github.com/dbamman/sp2013.11-731.git
+[submodule "wammar"]
+	path = wammar
+	url = git://github.com/wammar/sp2013.11-731.git
+[submodule "wfeely"]
+	path = wfeely
+	url = git://github.com/wfeely/sp2013.11-731.git
+[submodule "jfalchemist"]
+	path = jfalchemist
+	url = git://github.com/FJalchemist/sp2013.11-731.git
+[submodule "ruil"]
+	path = ruil
+	url = git://github.com/Ruil/sp2013.11-731.git
