@@ -4,7 +4,7 @@
 [submodule "wlin12"]
 	path = wlin12
 	url = git://github.com/wlin12/sp2013.11-731.git
-[submodule "sp2013.11-731"]
+[submodule "rui"]
 	path = rui
 	url = git://github.com/Ruil/sp2013.11-731.git
 [submodule "victor"]
