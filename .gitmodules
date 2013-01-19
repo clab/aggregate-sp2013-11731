@@ -7,3 +7,6 @@
 [submodule "sp2013.11-731"]
 	path = sp2013.11-731
 	url = git://github.com/Ruil/sp2013.11-731.git
+[submodule "victor"]
+	path = victor
+	url = git:git://github.com/vcha/sp2013.11-731.git
