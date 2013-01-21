@@ -37,3 +37,6 @@
 [submodule "ruil"]
 	path = ruil
 	url = git://github.com/Ruil/sp2013.11-731.git
+[submodule "jcbarker"]
+	path = jcbarker
+	url = git://github.com/jcbarker/sp2013.11-731.git
