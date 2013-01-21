@@ -40,3 +40,6 @@
 [submodule "jcbarker"]
 	path = jcbarker
 	url = git://github.com/jcbarker/sp2013.11-731.git
+[submodule "mfaruqui"]
+	path = mfaruqui
+	url = git://github.com/mfaruqui/sp2013.11-731
